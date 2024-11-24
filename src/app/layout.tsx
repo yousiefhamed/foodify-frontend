@@ -16,7 +16,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Foodify | Enjjoy Your Meal",
   description:
-    "Foodify is a food delivery service that delivers food to your doorstep.",
+    "Foodify is your premier food delivery service, offering a wide variety of delicious meals from local restaurants delivered straight to your doorstep. Order now and experience convenience and quality in every bite.",
 };
 
 export default function RootLayout({
